@@ -40,8 +40,8 @@ Final grade is rounded in favor of the student. There are no blocking elements o
     <td>Word2vec<br>
       TF-IDF
     </td>
-    <td></td>
-    <td></td>
+    <td>HW1</td>
+    <td>due 18.09</td>
     <td>
     </td>
   </tr>
@@ -49,16 +49,16 @@ Final grade is rounded in favor of the student. There are no blocking elements o
     <td>Your presentations<br>
        Graphs<br>
       Syntactic parsing</td>
-    <td></td>
-    <td></td>
+    <td>HW2</td>
+    <td>due 25.09</td>
     <td></td>
    </tr>
     <tr>
     <td>25.09. (till 14.20)</td>
     <td>Pandas<br>
       Visualization</td>
-    <td></td>
-    <td></td>
+    <td>HW3</td>
+    <td>due 02.10</td>
     <td>
   </td>
   </tr>
