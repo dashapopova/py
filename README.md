@@ -54,7 +54,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
     <td><a href="https://docs.google.com/spreadsheets/d/1ZOXVzgwpfM5pL5uJ2uYvxnR04dCc3ssIUTdG6JQaS-E/edit?usp=sharing">Presentation sign up form</a></td>
    </tr>
     <tr>
-    <td>25.09.</td>
+    <td>25.09. (till 14.20)</td>
     <td>Pandas<br>
       Visualization</td>
     <td>HW2</td>
@@ -71,7 +71,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
     <td><a href="https://sqlbolt.com/lesson/introduction">Tutorial</a></td>
   </tr>
     <tr>
-    <td>09.10</td>
+    <td>09.10 (till 14.20)</td>
     <td>
      Databases 2 <br>
      Crowlers
