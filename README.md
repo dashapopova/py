@@ -86,7 +86,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
       Final project presentations
   </td>
     <td>Final project guidelines</td>
-    <td><b>Final Project is due 29.10</b>:triumph:</td>
+    <td><b>Final Project is due 15.10</b>:triumph:</td>
     <td></td>
   </tr>
   </tr>
