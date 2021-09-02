@@ -28,8 +28,8 @@ Final grade is rounded in favor of the student. There are no blocking elements o
   </tr>
    <tr>
     <td>04.09.</td>
-    <td><a href="https://github.com/dashapopova/Data-Analysis-Python-II/blob/main/03.09/PPSem1.ipynb">Pymystem, pymorphy</a><br>
-    <a href="https://github.com/dashapopova/Data-Analysis-Python-II/blob/main/03.09/PPSem2.ipynb">Parsing Internet data</a></td>
+    <td><a href="https://github.com/dashapopova/Data-Analysis-Python-II/blob/main/03.09/PPSem1.ipynb">Intro to R</a><br>
+    <a href="https://github.com/dashapopova/Data-Analysis-Python-II/blob/main/03.09/PPSem2.ipynb">R Markdown</a></td>
     <td></td>
     <td></td>
     <td>
@@ -37,8 +37,8 @@ Final grade is rounded in favor of the student. There are no blocking elements o
   </tr>
   <tr>
     <td>11.09.</td>
-    <td>Word2vec<br>
-      TF-IDF
+    <td>tidyverse<br>
+      visualization
     </td>
     <td>HW1</td>
     <td>due 18.09</td>
@@ -46,17 +46,14 @@ Final grade is rounded in favor of the student. There are no blocking elements o
     </td>
   </tr>
     <td>18.09.</td>
-    <td>Your presentations<br>
-       Graphs<br>
-      Syntactic parsing</td>
+    <td>Complex data types</td>
     <td>HW2</td>
     <td>due 25.09</td>
     <td></td>
    </tr>
     <tr>
     <td>25.09. (till 14.20)</td>
-    <td>Pandas<br>
-      Visualization</td>
+    <td>Functions</td>
     <td>HW3</td>
     <td>due 02.10</td>
     <td>
@@ -64,7 +61,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
   </tr>
     <tr>
     <td>02.10.</td>
-    <td>Databases (Not meeting! Self-study)
+    <td>tidyverse 2
   </td>
     <td></td>
     <td></td>
@@ -73,8 +70,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
     <tr>
     <td>09.10 (till 14.20)</td>
     <td>
-     Databases 2 <br>
-     Crowlers
+    working with texts
   </td>
     <td></td>
   <td></td>
