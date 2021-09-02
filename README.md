@@ -40,8 +40,8 @@ Final grade is rounded in favor of the student. There are no blocking elements o
     <td>Word2vec<br>
       TF-IDF
     </td>
-    <td>HW1</td>
-    <td>due 24.09</td>
+    <td></td>
+    <td></td>
     <td>
     </td>
   </tr>
@@ -51,14 +51,14 @@ Final grade is rounded in favor of the student. There are no blocking elements o
       Syntactic parsing</td>
     <td></td>
     <td></td>
-    <td><a href="https://docs.google.com/spreadsheets/d/1ZOXVzgwpfM5pL5uJ2uYvxnR04dCc3ssIUTdG6JQaS-E/edit?usp=sharing">Presentation sign up form</a></td>
+    <td></td>
    </tr>
     <tr>
     <td>25.09. (till 14.20)</td>
     <td>Pandas<br>
       Visualization</td>
-    <td>HW2</td>
-    <td>due 15.10</td>
+    <td></td>
+    <td></td>
     <td>
   </td>
   </tr>
@@ -68,7 +68,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
   </td>
     <td></td>
     <td></td>
-    <td><a href="https://sqlbolt.com/lesson/introduction">Tutorial</a></td>
+    <td></td>
   </tr>
     <tr>
     <td>09.10 (till 14.20)</td>
