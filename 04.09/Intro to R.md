@@ -336,6 +336,45 @@ A[,]
 
 ### List
 
+Imagine a vector, but with values of different data types!!
+
+```
+l <- list(6, "Happy New Year!!", TRUE)
+l
+
+lbig <- list(c("Wow", "this", "list", "is", "so", "big"), "16", l)
+lbig
+
+str(lbig) #to see how the list is structured
+
+namedl <- list(age = 24, PhDstudent = T, language = "Russian")
+namedl
+
+namedl$age
+
+namedl[1]
+
+class(namedl)
+
+class(namedl[1])
+
+namedl[[1]]
+
+class(namedl[[1]])
+
+namedl[['age']]
+```
+
+<blockquote class="twitter-tweet" data-lang="en">
+<p lang="en" dir="ltr">
+Indexing lists in <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a>. Inspired by the Residence Inn <a href="http://t.co/YQ6axb2w7t">pic.twitter.com/YQ6axb2w7t</a>
+</p>
+— Hadley Wickham (@ href=“<a href="https://twitter.com/hadleywickham/status/643381054758363136?ref_src=twsrc%5Etfw" class="uri">https://twitter.com/hadleywickham/status/643381054758363136?ref_src=twsrc%5Etfw</a>”&gt;September 14, 2015</a>
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8">
+
+</script>
+
 
 
 
