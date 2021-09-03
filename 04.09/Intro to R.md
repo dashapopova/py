@@ -111,7 +111,7 @@ a>=b
 a<=b
 ```
 
-#### Data types
+### Data types
 
 ```
 class(a)
@@ -163,7 +163,7 @@ f1 | f2
 xor(t1, f1)
 ```
 
-#### Vector
+### Vector
 
 atomic vector or atomic
 
