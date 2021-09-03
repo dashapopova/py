@@ -365,7 +365,9 @@ class(namedl[[1]])
 namedl[['age']]
 ```
 
-![](https://twitter.com/hadleywickham/status/643381054758363136)
+![bn](https://twitter.com/hadleywickham/status/643381054758363136)
+
+
 
 
 
