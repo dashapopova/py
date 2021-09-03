@@ -10,7 +10,7 @@
 
 + If you don't want to download RStudio on your computer: <a href="https://rstudio.cloud/">RStudio cloud</a> 
 
-### Useful resources:
+### Useful resources
 
 + <a href="https://r4ds.had.co.nz/">a book <span class="citation">(Wickham and Grolemund <a href="#ref-wickham16" role="doc-biblioref">2016</a>)</span></a> 
 + <a href="https://stackoverflow.com">stackoverflow</a>
@@ -18,3 +18,7 @@
 + <a href="https://ru.stackoverflow.com">Russian stackoverflow</a>
 + <a href="https://www.r-bloggers.com/">R-bloggers</a>
 + <a href="https://t.me/rlang_ru">a chat about R</a>, where you can ask questions about R in Russian (but read <a href="https://github.com/r-lang-group-ru/group-rules/blob/master/README.md">the policy</a> first)
+
+### RStudio
+
+<img src="images/01_01_rstudio.png" width="250" />
