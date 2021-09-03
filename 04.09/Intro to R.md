@@ -427,10 +427,55 @@ head(got) #to see the top 6 raws #tail(got)
 table(got$Allegiances)
 
 table(got$Allegiances, got$Gender)
-
 ```
 
 #### Subsetting
+
+```
+got[100:115, 1:2]
+
+got[508:515, "Name"]
+
+got[508:515, c("Name", "Allegiances", "Gender")]
+
+houses <- got$Allegiances
+unique(houses) #all the uniques values
+```
+
+Our first task will be to create a night's watch subset:
+
+```
+vectornight <- got$Allegiances == "Night's Watch"
+head(vectornight)
+
+#now we use the vector for indexing
+nightswatch <- got[vectornight,]
+head(nightswatch)
+
+#we could have done it in one go
+nightswatch <- got[got$Allegiances == "Night's Watch",]
+```
+
+Now let's try to extract all the Wildlings and the Night Watch
+
+```
+nightwatch_wildling <- got[got$Allegiances == "Night's Watch" | got$Allegiances == "Wildling",]
+head(nightwatch_wildling)
+
+#an alternative way to do the same
+nightwatch_wildling <- got[got$Allegiances %in% c("Night's Watch", "Wildling"),]
+head(nightwatch_wildling)
+```
+
+#### Creating new columns
+
+Let's create a column that would indicate whether the character is alive
+
+```
+got[got$Name == "Arya Stark",]
+
+got$Is.Alive <- is.na(got$Book.of.Death) #to create a column Is.Alive, TRUE for characters that have NA in the Book.of.Death column
+```
 
 
 
