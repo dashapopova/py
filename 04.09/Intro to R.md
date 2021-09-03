@@ -367,6 +367,35 @@ namedl[['age']]
 
 [illustration](https://twitter.com/hadleywickham/status/643381054758363136)
 
+### Data.frame
+
+The most important data type
+
+```
+name <- c("Ivan", "Eugeny", "Lena", "Misha", "Sasha") 
+age <- c(26, 34, 23, 27, 26) 
+student <- c(FALSE, FALSE, TRUE, TRUE, TRUE) 
+df = data.frame(name, age, student)  
+df
+
+str(df)
+
+df$age[2:3]
+
+df$lovesR <- TRUE #recycling again
+df
+
+df[3:5, 2:3] #rows, columns
+
+df[1:2,"age"]
+
+df[df$age < mean(df$age), 4]
+
+df$lovesR[df$age < mean(df$age)]
+
+df[df$age < mean(df$age), 'lovesR']
+```
+
 
 
 
