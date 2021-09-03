@@ -164,3 +164,7 @@ xor(t1, f1)
 ```
 
 #### Vector
+
+atomic vector or atomic
+
+
