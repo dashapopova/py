@@ -42,4 +42,18 @@ Use R Console to compute:
 ```
 ### Functions
 
+What about taking a square root? or a log?
+
+To do so, we can use functions.
+
+```
+sqrt(16)
+
+log(8)
+```
+
+<span class="math inline">\(\log_2 8 = 3\)</span>
+
+To learn 
+
 ### Variables
