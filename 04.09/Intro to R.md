@@ -110,3 +110,57 @@ a>=b
 
 a<=b
 ```
+
+#### Data types
+
+```
+class(a)
+```
+
++ **numeric**
++  **character**: strings, marked by '' or ""
+```
+s <- "Всем привет!"
+s
+
+class(s)
+```
++ **logical**
+
+```
+t1 <- TRUE
+f1 <- FALSE
+
+t1
+
+t2 <- T
+f2 <- F
+
+TRUE <- FALSE
+
+TRUE
+
+T <- FALSE
+T
+
+comparison <- a == b
+comparison
+
+t1
+
+!t1
+
+!!t1 #double negation
+
+t1&t2 #and
+
+t1&f1
+
+t1 | f1 #or
+
+f1 | f2
+
+xor(t1, f1)
+```
+
+#### Vector
