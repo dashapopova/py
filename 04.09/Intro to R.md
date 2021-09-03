@@ -40,3 +40,6 @@ Use R Console to compute:
 
 (3+5)*2
 ```
+### Functions
+
+### Variables
