@@ -52,8 +52,10 @@ sqrt(16)
 log(8)
 ```
 
-<span class="math inline">\(\log_2 8 = 3\)</span>
+To learn about a function, we can open help:
 
-To learn 
+```
+?log
+```
 
 ### Variables
