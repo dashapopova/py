@@ -21,4 +21,8 @@
 
 ### RStudio
 
-<img src="images/01_01_rstudio.png" width="250" />
+When you open RStudio, you will see four spaces: **Code Editor** (to write scripts), **R Console** (interactive: you type a command and see the result), **Workspace and History** (here you can see what variables you have introduced), **Plots and files** (here you will see the plots when we draw some)
+
+### R as a calculator
+
+hj
