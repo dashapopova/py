@@ -46,14 +46,14 @@ Final grade is rounded in favor of the student. There are no blocking elements o
     </td>
   </tr>
     <td>18.09.</td>
-    <td>Complex data types</td>
+    <td>complex data types</td>
     <td>HW2</td>
     <td>due 25.09</td>
     <td></td>
    </tr>
     <tr>
     <td>25.09. (till 14.20)</td>
-    <td>Functions</td>
+    <td>functions</td>
     <td>HW3</td>
     <td>due 02.10</td>
     <td>
