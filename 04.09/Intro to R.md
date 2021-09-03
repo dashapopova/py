@@ -399,6 +399,23 @@ df[df$age < mean(df$age), 'lovesR']
 
 [Our data](https://raw.githubusercontent.com/dashapopova/Intro-to-R/main/04.09/character-deaths.csv) is derived from A Song of Ice and Fire by George R. R. Martin
 
+```
+getwd() #to determine your workdirectory
+got <- read.csv("character-deaths.csv") #to read a csv file into a variable
+
+setwd("C:/PB") #to set your workdirectory
+got <- read.csv("character-deaths.csv")
+
+got <- read.csv("/Users/Username/Some_Folder/character-deaths.csv") #to provide the full path to the file
+
+got <- read.csv("https://raw.githubusercontent.com/dashapopova/Intro-to-R/main/04.09/character-deaths.csv") #to read from the internet
+```
+Let's start! First step, reading file into a variable:
+
+```
+got <- read.csv("character-deaths.csv", stringsAsFactors = FALSE)
+View(got) #to check that everything looks ok
+```
 
 
 
