@@ -57,5 +57,15 @@ To learn about a function, we can open help:
 ```
 ?log
 ```
+Let's now try:
+
+```
+log(x = 8, base = 2)
+log(8,2)
+log(8, sqrt(4))
+log(base = 2, x = 8)
+log(b = 2, x = 8)
+'+'(3,4)
+```
 
 ### Variables
