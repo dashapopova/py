@@ -395,6 +395,9 @@ df$lovesR[df$age < mean(df$age)]
 
 df[df$age < mean(df$age), 'lovesR']
 ```
+### Playing with some real data
+
+Our data: [A Song of Ice and Fire by George R. R. Martin]()
 
 
 
