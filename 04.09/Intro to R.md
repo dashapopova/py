@@ -25,4 +25,18 @@ When you open RStudio, you will see four spaces: **Code Editor** (to write scrip
 
 ### R as a calculator
 
-hj
+Use R Console to compute:
+
+```
+6 + 13
+
+7-10
+
+2*6
+
+100/5
+
+2^3
+
+(3+5)*2
+```
