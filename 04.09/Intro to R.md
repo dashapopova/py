@@ -311,5 +311,31 @@ mean(n, na.rm = TRUE)
 
 #NaN -- Not a Number, e.g., if you devide 0 by 0
 ```
+### Matrix
+
+a two-dimensional vector
+
+```
+A <- matrix(1:20, nrow=5,ncol=4)
+A
+
+A <- matrix(1:20, nrow=5)
+A
+
+A[2,3] #rows, columns
+
+A[2:4, 1:3]
+
+A[,1:3]
+
+A[2:4,]
+
+A[,]
+
+```
+
+### List
+
+
 
 
