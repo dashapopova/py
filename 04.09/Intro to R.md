@@ -82,3 +82,31 @@ b <- 2 (Alt - or option - on Mac)
 
 b = 2
 ```
+Can you find a place where the variable and its value gets recorded?
+
+```
+a <- b^b+b*b
+a
+
+log(b,a)
+
+a == b
+
+a = b
+a
+
+a <- 2
+b <- 3
+
+a==b
+
+a!=b
+
+a>b
+
+a<b
+
+a>=b
+
+a<=b
+```
