@@ -28,7 +28,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
   </tr>
    <tr>
     <td>04.09.</td>
-    <td><a href="https://github.com/dashapopova/Data-Analysis-Python-II/blob/main/03.09/PPSem1.ipynb">Intro to R</a><br>
+    <td><a href="https://github.com/dashapopova/Intro-to-R/blob/main/04.09/Intro%20to%20R.md">Intro to R</a><br>
     <a href="https://github.com/dashapopova/Intro-to-R/blob/main/04.09/Markdown.md">Markdown</a></td>
     <td></td>
     <td></td>
