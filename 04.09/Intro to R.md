@@ -242,4 +242,74 @@ n * 2
 n + c(3,4,5)
 ```
 
+#### Indexing
+
+Very important!!
+
+```
+n <- 1:10
+n[1]
+
+n[10]
+
+n[3] <- 20
+n
+
+n[4:7]
+
+n[10:1]
+
+n[-1]   #all values, but the first
+
+n[c(-4, -5)]
+
+n[c(TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE)]
+
+n[c(TRUE,FALSE)] #recycling rule!
+
+my_named_vector <- c(first = 1, second = 2, third = 3)
+my_named_vector['first']
+
+d <- 1:4
+names(d) <- letters[1:4] #letters is a constant a-z
+d["a"]
+
+mean(n)
+
+larger <- n > mean(n)
+larger
+
+n[larger] #using larger for indexing
+
+n[n>mean(n)]
+```
+
+#### NA -- missing values
+
+```
+missed <- NA
+missed == "NA"
+
+missed == ""
+
+missed == NA
+
+n[5] <- NA
+n
+
+mean(n)
+
+is.na(n) #to check for NAs
+
+n[!is.na(n)]
+
+mean(n[!is.na(n)])
+
+?mean()
+
+mean(n, na.rm = TRUE) 
+
+#NaN -- Not a Number, e.g., if you devide 0 by 0
+```
+
 
