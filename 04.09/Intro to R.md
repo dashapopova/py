@@ -167,4 +167,79 @@ xor(t1, f1)
 
 atomic vector or atomic
 
+```
+c(4,8,15,16,23,42) #to create a vector
+
+c("ho", "ho", "ho")
+
+1:10 #to create a numeric vector
+
+5:-3
+
+seq(10,100, by = 10) #to create a sequence
+
+seq(1,13, length.out = 4)
+
+rep(1, 5) #to create a sequence with repetitions
+
+rep(1:3, 3) #arguments can be vectors
+
+rep(1:3, 1:3)
+
+v1 <- c("Ho", "Ho-ho")
+v2 <- c("Merry", "Christmas!")
+c(v1,v2)
+```
+#### Coercion
+
+```
+c(FALSE, 2)
+
+2 + TRUE
+
+c(TRUE, 3, "Hi!")
+```
+
+Coercion hierarchy: NULL < raw < logical < integer < double < complex < character < list < expression
+
+You can also change the type with a function:
+
+```
+as.numeric(c(TRUE, FALSE, FALSE))
+
+as.character(as.numeric(c(TRUE, FALSE, FALSE)))
+
+as.numeric(c("1", "2", "три"))
+```
+
+#### Operations with vectors
+
+```
+n <- 1:4
+m <- 4:1
+n + m
+
+n - m
+
+n * m
+
+n / m
+
+n ^ m + m * (n - m)
+
+sqrt(1:10)
+```
+
+#### Recycling
+
+```
+n <- 1:4
+m <- 1:2
+n * m
+
+n * 2
+
+n + c(3,4,5)
+```
+
 
