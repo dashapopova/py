@@ -74,3 +74,11 @@ log(b = 2, x = 8)
 ```
 
 ### Variables
+
+To store values we use variables:
+
+```
+b <- 2 (Alt - or option - on Mac)
+
+b = 2
+```
