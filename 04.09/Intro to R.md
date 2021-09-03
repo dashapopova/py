@@ -417,6 +417,21 @@ got <- read.csv("character-deaths.csv", stringsAsFactors = FALSE)
 View(got) #to check that everything looks ok
 ```
 
+#### Exploring the data
+
+```
+str(got) #to see the info about the variable
+
+head(got) #to see the top 6 raws #tail(got)
+
+table(got$Allegiances)
+
+table(got$Allegiances, got$Gender)
+
+```
+
+#### Subsetting
+
 
 
 
