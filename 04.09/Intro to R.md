@@ -365,15 +365,9 @@ class(namedl[[1]])
 namedl[['age']]
 ```
 
-<blockquote class="twitter-tweet" data-lang="en">
-<p lang="en" dir="ltr">
-Indexing lists in <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a>. Inspired by the Residence Inn <a href="http://t.co/YQ6axb2w7t">pic.twitter.com/YQ6axb2w7t</a>
-</p>
-— Hadley Wickham (@ href=“<a href="https://twitter.com/hadleywickham/status/643381054758363136?ref_src=twsrc%5Etfw" class="uri">https://twitter.com/hadleywickham/status/643381054758363136?ref_src=twsrc%5Etfw</a>”&gt;September 14, 2015</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8">
+![](https://twitter.com/hadleywickham/status/643381054758363136)
 
-</script>
+
 
 
 
