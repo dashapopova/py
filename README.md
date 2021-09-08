@@ -4,7 +4,7 @@ Intro to R seminars for First Year Linguistics Master students
 
 ### Hours
 
-Sut, 9.30 -- 12.30, online
+Sut, 9.30 -- 12.30, room 402 + online
 
 ### Instructor
 * Daria Popova (Dasha, Дарья Павловна Попова ([почта](mailto:daschapopowa@gmail.com)))
