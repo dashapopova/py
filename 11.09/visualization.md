@@ -55,3 +55,61 @@ diamonds %>%
            label = "help...\n I am in a red\nsquare")
 ```
 
+### Bar plot
+
+```
+misspelling <- read_csv("misspelling_dataset.csv")
+```
++ The variable spelling is aggregated: count represents the number of misspellings -- we can use ```geom_col()```
++ The variable correct is not aggregated: we see repeated values -- we can use ```geom_bar()```
+
+```
+misspelling %>% 
+  slice(1:20) %>% 
+  ggplot(aes(spelling, count))+
+  geom_col()
+```
+
+Let's flip the axes:
+
+```
+misspelling %>% 
+  slice(1:20) %>% 
+  ggplot(aes(spelling, count))+
+  geom_col()+
+  coord_flip()
+  ```
+  
+  ```
+misspelling %>% 
+  ggplot(aes(correct))+
+  geom_bar()
+  ```
+  
+Let's flip the axes:
+
+```
+misspelling %>% 
+  ggplot(aes(correct))+
+  geom_bar()+
+  coord_flip()
+```
+
+We can aggregate non-aggregated values:
+
+```
+diamonds %>% 
+  count(cut)
+```
+
+We can turn an aggregated variant into a non-aggregated:
+
+```
+diamonds %>% 
+  count(cut) %>% 
+  uncount(n)
+```
+
+### Factors
+
+
