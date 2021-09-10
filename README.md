@@ -41,7 +41,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
       tidyverse<br>
       <a href="https://github.com/dashapopova/Intro-to-R/blob/main/11.09/visualization.md">visualization</a>
     </td>
-    <td>HW1</td>
+    <td><a href="https://github.com/dashapopova/Intro-to-R/blob/main/HWs/HW1.md">HW1</a></td>
     <td>due 18.09</td>
     <td>
     </td>
