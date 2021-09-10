@@ -37,7 +37,8 @@ Final grade is rounded in favor of the student. There are no blocking elements o
   </tr>
   <tr>
     <td>11.09.</td>
-    <td>tidyverse<br>
+    <td><a href="https://github.com/dashapopova/Intro-to-R/blob/main/11.09/exampleRmarkdown.Rmd">R Markdown</a><br>
+      tidyverse<br>
       visualization
     </td>
     <td>HW1</td>
