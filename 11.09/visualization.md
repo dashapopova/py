@@ -111,4 +111,52 @@ diamonds %>%
 
 ### Factors
 
+```
+my_factor <- factor(misspelling$correct)
+head(my_factor)
 
+levels(my_factor)
+
+levels(my_factor) <- rev(levels(my_factor))
+head(my_factor)
+
+misspelling %>% 
+  mutate(correct = factor(correct, levels = c("deschanel",
+                                              "galifianakis",
+                                              "johansson",
+                                              "kaepernick",
+                                              "labeouf",
+                                              "macaulay",
+                                              "mcgwire",
+                                              "mclachlan",
+                                              "minaj",
+                                              "morissette",
+                                              "palahniuk",
+                                              "picabo",
+                                              "poehler",
+                                              "shyamalan",
+                                              "mcconaughey"))) %>% 
+  ggplot(aes(correct))+
+  geom_bar()+
+  coord_flip()
+  
+#fct_reorder reorders factor levels by sorting along another variable
+misspelling %>% 
+  count(correct) %>% 
+  ggplot(aes(fct_reorder(correct, n), n))+
+  geom_col()+
+  coord_flip()
+  
+diamonds %>% 
+  mutate(cut = fct_reorder(cut, price, mean)) %>% 
+  ggplot(aes(cut)) +
+  geom_bar()
+
+#multiple geom_
+misspelling %>% 
+  count(correct) %>% 
+  ggplot(aes(fct_reorder(correct, n), n, label = n))+
+  geom_col()+
+  geom_text(nudge_y = 150)+
+  coord_flip()
+```
