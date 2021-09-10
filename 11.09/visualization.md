@@ -78,13 +78,12 @@ misspelling %>%
   ggplot(aes(spelling, count))+
   geom_col()+
   coord_flip()
-  ```
-  
-  ```
+```
+```
 misspelling %>% 
   ggplot(aes(correct))+
   geom_bar()
-  ```
+```
   
 Let's flip the axes:
 
