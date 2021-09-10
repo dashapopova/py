@@ -67,7 +67,7 @@ knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)
 5. [Handout on Markdown](https://github.com/dashapopova/Intro-to-R/blob/main/04.09/Markdown.md)
 
 6. Dynamic tables
-```{r, echo=FALSE}
+```{r}
 library(tidyverse)
 heroes <- read_csv("https://raw.githubusercontent.com/Pozdniakov/tidy_stats/master/data/heroes_information.csv",
                    na = c("-", "-99"))
