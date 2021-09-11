@@ -2,7 +2,7 @@
 
 Please e-mail your homework to daschapopowa@gmail.com in a .pdf or an .html format (please use R Markdown to create your file)
 
-Create 5 plots for the data in [here](https://raw.githubusercontent.com/dashapopova/Intro-to-R/main/HWs/heroes_information.csv)
+Create 5 plots for the data from [this file](https://raw.githubusercontent.com/dashapopova/Intro-to-R/main/HWs/heroes_information.csv)
 
 Maximum per plot -- 2 points: 
 
@@ -10,5 +10,7 @@ Maximum per plot -- 2 points:
 + there is a description of the plot,
 + the plot type is suitable for your goal, 
 + the data on the plot are readable, 
-+ there is complexity to the plot (the type of the plot has some complexity to it, you took a meaningful subset of the data, the formatting is done beatifully, the sorting is done in a meaningful way, you used different plot types and options),
-+ you get up to maximum points if all of the above is done plus the type of the plot is not one of the types we have covered in class
++ there is complexity to the plot (the type of the plot has some complexity to it, you took a meaningful subset of the data, the formatting is done beatifully, the sorting is done in a meaningful way, you used different plot types and options in your plots),
++ you get up to maximum points if all of the above is true plus the type of the plot is not one of the types we have covered in class
+
+Typically, a 9 and a 10 are reserved for students who show exceptional knowledge, skills and enthusiasm for the assignment: make their assignment truly original and help other students by answering their questions in the chat.
