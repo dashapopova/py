@@ -1,6 +1,6 @@
 ## Homework assignment 1 -- due 18.09
 
-Please e-mail your homework to daschapopowa@gmail.com in a .pdf or an .html format (please use R Markdown)
+Please e-mail your homework to daschapopowa@gmail.com in a .pdf or an .html format (please use R Markdown to create your file)
 
 Create 5 plots for the data in [here](https://raw.githubusercontent.com/dashapopova/Intro-to-R/main/HWs/heroes_information.csv)
 
