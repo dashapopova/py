@@ -8,7 +8,7 @@ Please e-mail your homework to daschapopowa@gmail.com in a .pdf or an .html form
 
 Take the data [about the UK pubs](https://raw.githubusercontent.com/dashapopova/Intro-to-R/main/HWs/HW2/UK_pubs.csv)
 
-Plot the 40 most frequent names of pubs in the UK: the x-axis is for the number of symbols in the pub name, the y-axis is for the number of bars with the same name.
+Plot the 40 or 50 most frequent names of pubs in the UK: the x-axis is for the number of symbols in the pub name, the y-axis is for the number of bars with the same name.
 
 Your goal is to recreate the plot below (don't forget the names for the axes, the title and the source of the data at the bottom of the plot):
 
