@@ -20,6 +20,10 @@ Your goal is to recreate the plot below (don't forget the names for the axes, th
 
 ### Task 2 -- 2 points
 
+Take the data from [a questionnaire](https://raw.githubusercontent.com/dashapopova/Intro-to-R/main/HWs/HW2/mad_questionary.csv)
+
+![]()
+
 ### Task 3 -- 2 points
 
 ### Task 4 -- 2 points
