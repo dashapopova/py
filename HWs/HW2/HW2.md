@@ -6,9 +6,17 @@ Please e-mail your homework to daschapopowa@gmail.com in a .pdf or an .html form
 
 ### Task 1 -- 2 points
 
-Create 5 plots for the data from [this file](https://raw.githubusercontent.com/dashapopova/Intro-to-R/main/HWs/heroes_information.csv)
+Take the data [about the UK pubs](https://raw.githubusercontent.com/dashapopova/Intro-to-R/main/HWs/HW2/UK_pubs.csv)
+
+Plot the 40 most frequent names of pubs in the UK: the x-axes is for the number of symbols in the pub name, the y-axes is for the number of bars with the same name.
+
+Your goal is to recreate the plot below:
 
 ![](https://github.com/dashapopova/Intro-to-R/blob/main/HWs/HW2/pubs.png)
+
+**A hint:**
+
++ use ```geom_point()``` and ```geom_text_repel()``` from the ```ggrepel``` package
 
 ### Task 2 -- 2 points
 
