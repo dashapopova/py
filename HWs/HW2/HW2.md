@@ -8,6 +8,8 @@ Please e-mail your homework to daschapopowa@gmail.com in a .pdf or an .html form
 
 Create 5 plots for the data from [this file](https://raw.githubusercontent.com/dashapopova/Intro-to-R/main/HWs/heroes_information.csv)
 
+![](https://github.com/dashapopova/Intro-to-R/blob/main/HWs/HW2/pubs.png)
+
 ### Task 2 -- 2 points
 
 ### Task 3 -- 2 points
