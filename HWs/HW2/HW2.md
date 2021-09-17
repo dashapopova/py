@@ -10,7 +10,7 @@ Take the data [about the UK pubs](https://raw.githubusercontent.com/dashapopova/
 
 Plot the 40 most frequent names of pubs in the UK: the x-axis is for the number of symbols in the pub name, the y-axis is for the number of bars with the same name.
 
-Your goal is to recreate the plot below (don't forget the names for the axes and the source of the data at the bottom of the plot):
+Your goal is to recreate the plot below (don't forget the names for the axes, the title and the source of the data at the bottom of the plot):
 
 ![](https://github.com/dashapopova/Intro-to-R/blob/main/HWs/HW2/pubs.png)
 
