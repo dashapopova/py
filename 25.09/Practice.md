@@ -30,9 +30,9 @@ The second variant:
 
 + Check on -100, -40 and 0 values that the function ```cels2fahr()``` works
 
-+ Create a function ```highlight()``` that takes a string vector and returns the same vector with "***" at the beginning and the end of the vector 
++ Create a function ```highlight()``` that takes a string vector and returns the same vector with "*\**" at the beginning and the end of the vector 
 
-+ Make the ```highlight()``` function more flexible: add a parameter ```wrapper =``` that will be set to the default value "***". Put the value of ```wrapper =``` to the beginning and the end of a vector.
++ Make the ```highlight()``` function more flexible: add a parameter ```wrapper =``` that will be set to the default value "*\**". Add the value of ```wrapper =``` at the beginning and at end of a vector.
 
 + Test the function
 
@@ -124,7 +124,7 @@ list4 <- list(1:3, 3:40, list3)
 
 
 
-+ load the heroes dataset and count, how many NAs are in each column. Use ```na_n()```
++ load the heroes dataset and count how many NAs are in each column. Use ```na_n()```
 
 
 
