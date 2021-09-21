@@ -56,7 +56,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
     <tr>
     <td>25.09. (till 14.20)</td>
     <td><a href="https://github.com/dashapopova/Intro-to-R/tree/main/25.09">functions</a></td>
-    <td>HW3</td>
+    <td><a href="https://github.com/dashapopova/Intro-to-R/blob/main/HWs/HW3/HW3.md">HW3</a></td>
     <td>due 02.10</td>
     <td>
   </td>
