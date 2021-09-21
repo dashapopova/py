@@ -22,11 +22,7 @@ You can notice that the values for the sex variable are spelled inconsistently: 
 
 Your goal is to recreate the plot below:
 
-![](https://github.com/dashapopova/Intro-to-R/blob/main/HWs/HW2/questionnaire.png)
-
-**A hint:**
-
-+ use ```geom_dotplot()``` with the argument ```method = "histodot"``` and with a deleted axis ```scale_y_continuous(NULL, breaks = NULL)```
+![](https://github.com/dashapopova/Intro-to-R/blob/main/HWs/HW3/temperature.png)
 
 ### For a 9 or a 10 -- 2 points
 
