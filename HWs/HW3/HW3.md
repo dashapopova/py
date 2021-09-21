@@ -6,21 +6,25 @@ Please e-mail your homework to daschapopowa@gmail.com in a .pdf or an .html form
 
 ### Task 1 -- 4 points
 
-Take the data [about the UK pubs](https://raw.githubusercontent.com/dashapopova/Intro-to-R/main/HWs/HW2/UK_pubs.csv)
+**Please don't forget to provide code for every step!**
 
-Plot the 40 or 50 most frequent names of pubs in the UK: the x-axis is for the number of symbols in the pub name, the y-axis is for the number of bars with the same name.
+Take the data from a frequency dictionary [Ляшевская, Шаров 2011](https://raw.githubusercontent.com/agricolamz/DS_for_DH/master/data/freq_dict_2011.csv)
 
-Your goal is to recreate the plot below (don't forget the source of the data at the bottom of the plot):
+Use the data in the lemma column to compute how many times each character has occurred in the dictionary.
+
+Then, recreate the plot below (don't forget the source of the data at the bottom of the plot):
 
 ![](https://github.com/dashapopova/Intro-to-R/blob/main/HWs/HW3/dictionary.png)
 
+If you want to use English data, take any of our English datasets, e.g., the heroes dataset, and do all of the above, e.g., compute and plot the number of times each character has occurred in the names of the superheroes.
+
 ### Task 2 -- 4 points
 
-Take the data from [a questionnaire](https://raw.githubusercontent.com/dashapopova/Intro-to-R/main/HWs/HW2/mad_questionary.csv)
+**Please don't forget to provide code for every step!**
 
-You can notice that the values for the sex variable are spelled inconsistently: *Ж/ж/женский/Женский* and *М/м/мужской/Мужской*. Manipulate the data so that *Ж/ж/женский/Женский* is turned into *женский* and *М/м/мужской/Мужской* is turned into *мужской*. Then plot the data.
+Take [here](https://raw.githubusercontent.com/agricolamz/DS_for_DH/master/data/us_city_average_temperature.csv) the data on 51 US cities, their population (the number of people),  mean monthly temperature in Fahrenheit. Turn Fahrenheit into Celsius and find the minimal temperature in the dataset.
 
-Your goal is to recreate the plot below:
+Then, recreate the plot below:
 
 ![](https://github.com/dashapopova/Intro-to-R/blob/main/HWs/HW3/temperature.png)
 
