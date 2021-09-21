@@ -1,6 +1,6 @@
 ## Homework assignment 3
 
-HW 2 is due 02.10 at 23:59
+HW 3 is due 02.10 at 23:59
 
 Please e-mail your homework to daschapopowa@gmail.com in a .pdf or an .html format (please use R Markdown to create your file)
 
