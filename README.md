@@ -63,7 +63,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
   </tr>
     <tr>
     <td>02.10.</td>
-    <td>tidyverse 2
+    <td><a href="https://github.com/dashapopova/Intro-to-R/tree/main/02.10">tidyverse 2</a>
   </td>
     <td></td>
     <td></td>
