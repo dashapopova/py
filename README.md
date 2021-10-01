@@ -72,7 +72,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
     <tr>
     <td>09.10 (till 14.20)</td>
     <td>
-    working with texts
+    <a href="https://github.com/dashapopova/Intro-to-R/tree/main/09.10">working with texts</a>
   </td>
     <td></td>
   <td></td>
