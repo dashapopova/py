@@ -74,8 +74,8 @@ Final grade is rounded in favor of the student. There are no blocking elements o
     <td>
     <a href="https://github.com/dashapopova/Intro-to-R/tree/main/09.10">working with texts</a>
   </td>
-    <td></td>
-  <td></td>
+    <td><a href="https://github.com/dashapopova/Intro-to-R/blob/main/HWs/FinalProjectGuidelines.md">Final project guidelines</a></td>
+  <td><b>Final Project is due 15.10</b></td>
     <td></td>
   </tr>
     <tr>
@@ -83,7 +83,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
     <td>
       Final project presentations
   </td>
-    <td>Final project guidelines</td>
+    <td><a href="https://github.com/dashapopova/Intro-to-R/blob/main/HWs/FinalProjectGuidelines.md">Final project guidelines</a></td>
     <td><b>Final Project is due 15.10</b>:triumph:</td>
     <td></td>
   </tr>
