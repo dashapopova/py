@@ -76,7 +76,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
   </td>
     <td><a href="https://github.com/dashapopova/Intro-to-R/blob/main/HWs/FinalProjectGuidelines.md">Final project guidelines</a></td>
   <td><b>Final Project is due 15.10</b></td>
-    <td></td>
+    <td>[RegEx Tutorial](https://regexone.com/lesson/introduction_abcs)</td>
   </tr>
     <tr>
     <td>16.10</td>
