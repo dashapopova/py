@@ -87,7 +87,8 @@ Final grade is rounded in favor of the student. There are no blocking elements o
   </td>
     <td></td>
     <td><b>Final Project is due 15.10</b>:triumph:</td>
-    <td></td>
+    <td>https://r4ds.had.co.nz/index.html<br>
+  https://www.datamentor.io/r-programming/s3-class/</td>
   </tr>
   </tr>
 </table>
