@@ -2,6 +2,8 @@
 
 Intro to R seminars for First Year Linguistics Master students
 
+Based on [this course](https://pozdniakov.github.io/tidy_stats/index.html)
+
 ### Hours
 
 Sut, 9.30 -- 12.30, room 402 + online
