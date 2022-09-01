@@ -43,8 +43,8 @@ Final grade is rounded in favor of the student. There are no blocking elements o
       <a href="https://github.com/dashapopova/Intro-to-R/blob/main/11.09/tidyverse.md">tidyverse</a><br>
       <a href="https://github.com/dashapopova/Intro-to-R/blob/main/11.09/visualization.md">visualization</a>
     </td>
-    <td><a href="https://github.com/dashapopova/Intro-to-R/blob/main/HWs/HW1.md">HW1</a></td>
-    <td>due 18.09</td>
+    <td>HW1</td>
+    <td>due 15.09</td>
     <td>
     </td>
   </tr>
@@ -52,20 +52,20 @@ Final grade is rounded in favor of the student. There are no blocking elements o
     <td><a href="https://github.com/dashapopova/Intro-to-R/blob/main/18.09/strings.Rmd">strings</a><br>
   <a href="https://github.com/dashapopova/Intro-to-R/blob/main/18.09/lists.Rmd">lists</a></td>
     <td>HW2</td>
-    <td></td>
+    <td>due 22.09</td>
     <td></td>
    </tr>
     <tr>
     <td>23.09.</td>
     <td><a href="https://github.com/dashapopova/Intro-to-R/tree/main/25.09">functions</a></td>
     <td>HW3</td>
-    <td></td>
+    <td>due 06.10</td>
     <td>
   </td>
   </tr>
     <tr>
     <td>30.09.</td>
-    <td><a href="https://github.com/dashapopova/Intro-to-R/tree/main/02.10">tidyverse 2</a>
+    <td><a href="https://github.com/dashapopova/Intro-to-R/tree/main/25.09">practice</a>
   </td>
     <td></td>
     <td></td>
@@ -84,8 +84,8 @@ Final grade is rounded in favor of the student. There are no blocking elements o
     <td>
     <a href="https://github.com/dashapopova/Intro-to-R/tree/main/09.10">working with texts</a>
   </td>
-    <td><a href="https://github.com/dashapopova/Intro-to-R/blob/main/HWs/FinalProjectGuidelines.md">Final project guidelines</a></td>
-  <td><b>Final Project is due 15.10</b></td>
+    <td>Final project guidelines</td>
+  <td><b>Final Project is due 20.10</b></td>
     <td><a href="https://regexone.com/lesson/introduction_abcs">RegEx Tutorial</a></td>
   </tr>
     <tr>
@@ -94,7 +94,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
       Final project presentations
   </td>
     <td></td>
-    <td><b>Final Project is due 15.10</b>:triumph:</td>
+    <td><b>Final Project is due 20.10</b>:triumph:</td>
     <td>https://r4ds.had.co.nz/index.html<br>
   https://www.datamentor.io/r-programming/s3-class/<br>
   https://www.cyclismo.org/tutorial/R/s3Classes.html</td>
