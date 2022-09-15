@@ -51,8 +51,8 @@ Final grade is rounded in favor of the student. There are no blocking elements o
     <td>16.09.</td>
     <td><a href="https://github.com/dashapopova/Intro-to-R/blob/main/18.09/strings.Rmd">strings</a><br>
   <a href="https://github.com/dashapopova/Intro-to-R/blob/main/18.09/lists.Rmd">lists</a></td>
-    <td>HW2</td>
-    <td>due 22.09</td>
+    <td><a href="https://github.com/dashapopova/Intro-to-R/blob/main/HWs/HW2/HW2.md">HW2</a></td>
+    <td>due 23.09</td>
     <td></td>
    </tr>
     <tr>
