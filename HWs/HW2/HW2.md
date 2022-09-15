@@ -1,6 +1,6 @@
 ## Homework assignment 2
 
-HW 2 is due 25.09
+HW 2 is due 23.09
 
 Please e-mail your homework to daschapopowa@gmail.com in a .pdf or an .html format (please use R Markdown to create your file)
 
@@ -36,4 +36,4 @@ Your goal is to recreate the plot below:
 
 Create your own homework problem that targets topics that we have covered up to now (data types; plots; regular expressions; string, list, tibble manipulations etc.). Provide a dataset, a problem formulation and a solution. Successful homework problems will be included in the next homework for everyone else to solve.
 
-Typically, a 9 and a 10 are reserved for students who show exceptional knowledge, skills and enthusiasm for the assignment, who make their assignment truly original and help other students by answering their questions in the chat.
+Typically, a 9 and a 10 are reserved for students who show exceptional knowledge, skills and enthusiasm for the assignment.
