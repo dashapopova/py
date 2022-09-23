@@ -16,7 +16,7 @@ Then, recreate the plot below (don't forget the source of the data at the bottom
 
 ![](https://github.com/dashapopova/Intro-to-R/blob/main/HWs/HW3/dictionary.png)
 
-If you want to use English data, take any of our English datasets, e.g., the heroes dataset, and do all of the above, e.g., compute and plot the number of times each character has occurred in the names of the superheroes.
+If you want to use English data, take any of our English datasets, e.g., the heroes dataset, and do all of the above, e.g., compute and plot the number of times each character (letter) has occurred in the names of the superheroes.
 
 ### Task 2 -- 4 points
 
