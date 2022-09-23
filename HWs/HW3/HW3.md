@@ -1,6 +1,6 @@
 ## Homework assignment 3
 
-HW 3 is due 02.10 before 23:59  **Extended till 09.10 23:59**
+HW 3 is due 06.10 before 23:59 
 
 Please e-mail your homework to daschapopowa@gmail.com in a .pdf or an .html format (please use R Markdown to create your file)
 
@@ -32,5 +32,5 @@ Then, recreate the plot below:
 
 Create your own homework problem that targets the topic of functions. Provide a dataset, a problem formulation and a solution. Successful homework problems will be included in the next year's homework for students to solve.
 
-Typically, a 9 and a 10 are reserved for students who show exceptional knowledge, skills and enthusiasm for the assignment, who make their assignment truly original and help other students by answering their questions in the chat.
+Typically, a 9 and a 10 are reserved for students who show exceptional knowledge, skills and enthusiasm for the assignment.
 
