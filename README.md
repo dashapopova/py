@@ -75,8 +75,8 @@ Final grade is rounded in favor of the student. There are no blocking elements o
     <td>07.10.</td>
     <td><a href="https://github.com/dashapopova/Intro-to-R/tree/main/02.10">tidyverse 2</a>
   </td>
-    <td></td>
-    <td></td>
+    <td><a href="https://github.com/dashapopova/Intro-to-R/blob/main/HWs/FinalProjectGuidelines.md">Final project guidelines</a></td>
+    <td><b>Final Project is due 20.10</b></td>
     <td></td>
   </tr>
     <tr>
@@ -84,8 +84,8 @@ Final grade is rounded in favor of the student. There are no blocking elements o
     <td>
     <a href="https://github.com/dashapopova/Intro-to-R/tree/main/09.10">working with texts</a>
   </td>
-    <td>Final project guidelines</td>
-  <td><b>Final Project is due 20.10</b></td>
+    <td></td>
+  <td></td>
     <td><a href="https://regexone.com/lesson/introduction_abcs">RegEx Tutorial</a></td>
   </tr>
     <tr>
