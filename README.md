@@ -65,7 +65,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
   </tr>
     <tr>
     <td>30.09.</td>
-    <td><a href="https://github.com/dashapopova/Intro-to-R/tree/main/25.09">practice</a>
+    <td><a href="https://github.com/dashapopova/Intro-to-R/tree/main/30.09">practice</a>
   </td>
     <td></td>
     <td></td>
