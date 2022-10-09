@@ -25,3 +25,4 @@ Datasets:
 + [DraCor](https://dracor.org/): a Drama Corpus, contains files for a number of dramas for a number of languages, including Russian, English, but also Italian, German etc.
 + [Princess Corpus](https://drive.google.com/drive/folders/1vVkkpcZehzD5bOyoES5hM7hrO2SUpvWS) created by Lelia Glass
 + [Sociolinguistic data collected in Moscow schools](https://github.com/dashapopova/Intro-to-R/blob/main/HWs/Schools_results2016-17_6Mar2018.xlsx)
++ [The result of the morphological analysis of "War and Peace"](https://raw.githubusercontent.com/dashapopova/Intro-to-R/main/HWs/tolstoy.csv)
