@@ -44,7 +44,7 @@ If alpha = 1, then the probability distribution for the pragmatic listener is th
 
 **Plus 2 points:**
 
-1) provide a reference game with two scalar implicatures, apply the RSA analysis for it (provide the tables for literal listener, speaker and pragmatic listener)
+1) provide a reference game with two scalar implicatures, apply the RSA analysis to it (provide the tables for literal listener, speaker and pragmatic listener)
 
 2) comment upon the role of parameters (alpha, prior probablitties, cost), try to draw some general conclusions about the values of the parameters that result in the computation of implicatures and those that don't, about the interplay of the parameters
 
