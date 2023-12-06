@@ -33,4 +33,4 @@ Then, recreate the plot below:
 
 ### For a 9 or a 10 -- 2 points
 
-Create a bar plot that shows the number of couples with different eye colors. The bars must be colored in the male's eye colors and the female's eye colors must be represented as colored patterns on these bars (as shown on the plot below). All colors must match the eye color they represent. Bars should be named according to the plot below. A hint: you can use geom_bar_pattern(stat = "identity") from the package "ggpattern".
+Create a bar plot that shows [the number of couples with different eye colors](https://raw.githubusercontent.com/Whereamiactually/R/main/Couple%20Eye%20Colors.csv). The bars must be colored in the male's eye colors and the female's eye colors must be represented as colored patterns on these bars (as shown on the plot below). All colors must match the eye color they represent. Bars should be named according to the plot below. A hint: you can use geom_bar_pattern(stat = "identity") from the package "ggpattern".
