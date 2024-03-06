@@ -1,6 +1,6 @@
 ## RSA Homework
 
-**Due February 6th, by 9am** Please e-mail me your homework solution
+**Due March 18th, by 23:59** Please e-mail me your homework solution
 
 A reference game:
 
