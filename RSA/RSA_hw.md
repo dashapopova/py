@@ -38,7 +38,7 @@ If alpha = 1, then the probability distribution for the pragmatic listener is th
 
 **For 6 points:**
 
-1) describe the implicature that one can draw from the table of the pragmatic listener
+1) what conclusions can one draw from the table of the pragmatic listener? Provide an argument for your view
 
 2) what would happen to the implicature if the priors are P(r1) = 0.1, P(r2) = P(r3) = 0.45? Provide the corresponding table for the pragmatic listener and comment upon it. Use can use the [prompt](https://github.com/dashapopova/py/blob/main/RSA/RSA_prompt_TheorLing_2024.ipynb) or compute manually.
 
