@@ -55,8 +55,11 @@ If alpha = 1, then the probability distribution for the pragmatic listener is th
 **Option 2**
 
 Poirot: Do you have children, madam?
+
 M. Battersby: I've never been married, Monsieur Poirot.
+
 Poirot: Pardon... Mademoiselle...
+
 
 Poirot Agatha Christie Season 11 Episode 3 Third Girl
 
